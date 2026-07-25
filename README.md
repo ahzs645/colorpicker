@@ -3,7 +3,7 @@
 A Vite 8 + React 19 + TypeScript project showing four takes on the same problem,
 built on one shared colour library.
 
-**[Live demo →](https://ahzs645.github.io/colorpicker/)**
+**[Live demo →](https://projects.ahmadjalil.com/colorpicker/)**
 
 ```bash
 npm install
